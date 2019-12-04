@@ -1,10 +1,12 @@
 'use strict';
 // use strict is almost alwayst the first line of our js files
 
+function myQuiz() {
+
 // this console.log is just the test that we've hooked up the files correctly
 console.log('the javascript is linked correctly!');
 
-var username = prompt('Tell me your name!');
+var username = prompt('Hello, what is your name!');
 //console.log('user\'s name was ' + username);
 alert('Welcome to my page ' + username + '.  Please use the paragraph below to answer 5 questions.');
 
@@ -52,3 +54,4 @@ if(lowerCaseAnswer === 'y') {
   } else {
     alert('You chose incorrectly');
   }
+}
