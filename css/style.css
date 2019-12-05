@@ -23,7 +23,16 @@ h1 {
    line-height: 1.6em;
    font-size: 15px;
    color: ivory;
+  }
 
+/* Gina assisted me with the ol and ul code */
+  ol{
+    list-style-position: inside;
+    list-style-type: decimal;
 
+  }
+  ul{
+    list-style-position: inside;
+    list-style-type: disc;
 
   }
