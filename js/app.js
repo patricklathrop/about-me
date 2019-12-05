@@ -126,7 +126,7 @@ function myQuiz() {
 
   // informs the user of their final score
   function goodbye() {
-    alert('Thank\s for playing ' + username + '. Your final score is ' + score + ' out of 7.');
+    alert('Thank\'s for playing ' + username + '. Your final score is ' + score + ' out of 7.');
   }
 
   questionOne();
