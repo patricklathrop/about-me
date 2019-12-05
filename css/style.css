@@ -1,29 +1,29 @@
 body {
-    /* color: purple; */
-    background-color: blue;
-    color: white;
-    padding: 20px;
-    font-family: 'Courier New', Courier, monospace;
-  }
-  
+  /* color: purple; */
+  background-color: blue;
+  color: white;
+  padding: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
 h1 {
-    background-color:lightcoral;
-    color: black;
-    border-radius: 25px;
-    font-size: 2.5em;
-    font-style: italic;
-    width: 75%;
-    text-align: center;
-    margin: auto;
-    /* padding: inherit; */
-  }
+  background-color: lightcoral;
+  color: black;
+  border-radius: 25px;
+  font-size: 2.5em;
+  font-style: italic;
+  width: 75%;
+  text-align: center;
+  margin: auto;
+  /* padding: inherit; */
+}
 
- p{
-   font-family: 'Courier New', Courier, monospace;
-   line-height: 1.6em;
-   font-size: 15px;
-   color: ivory;
+p {
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 1.6em;
+  font-size: 15px;
+  color: ivory;
 
 
 
-  }
+}
